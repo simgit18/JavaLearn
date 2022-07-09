@@ -35,6 +35,12 @@ public class dataTypes {
         System.out.println("Double Minimum Value ="+ myDoubleMinNumber);
         System.out.println("Double Max Value ="+ myDoubleMaxValue);
 
+        float myFloatvalue = 5.230f / 3f;
+        double myDoubleValue = 5.23423d /3d;
+
+        System.out.println(myFloatvalue);
+        System.out.println(myDoubleValue);
+
 
 
     }
