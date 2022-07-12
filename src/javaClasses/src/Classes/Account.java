@@ -1,4 +1,4 @@
-package Classes;
+package javaClasses.src.Classes;
 
 public class Account {
     private int account;
